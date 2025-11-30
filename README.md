@@ -24,7 +24,7 @@ Copy code
 - IAM  
 
 ### Architecture Diagram  
-(architecture/diagram.png — will be added)
+
 
 ---
 
